@@ -35,16 +35,6 @@ alias gitci='git commit'
 alias gitst='git status'
 alias gitco='git checkout *'
 alias gitpull='git p'
-alias ssh63='ssh  develop@10.8.160.63 -p 50022'
-alias ssh66='ssh  develop@10.8.160.66 -p 50022'
-alias ssh67='ssh  develop@10.8.160.67 -p 50022'
-alias ssh68='ssh  develop@10.8.160.68 -p 50022'
-alias ssh168='ssh develop@10.8.160.168 -p 50022'
-alias ssh120='ssh develop@10.8.19.120 -p 50022'
-alias ssh169='ssh develop@10.8.160.169 -p 50022'
-alias ssh161='ssh develop@10.8.161.200 -p 50022'
-#alias ssh200="echo -ne '\033]6;1;bg;green;brightness;155\a';ssh develop@10.8.194.200 -p 50022"
-alias ssh200='ssh develop@10.8.194.200 -p 50022'
 #alias pptree="find . -print | sed -e 's;[^/]*/;|____;g;s;____|; |;g'"
 PS1='[\u@$PWD]'
 if [[ ${EUID} == 0 ]] ; then
