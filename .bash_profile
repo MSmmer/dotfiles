@@ -1,3 +1,4 @@
+B
 export CLICOLOR=1
 export LSCOLORS=gxfxaxdxcxegedabagacad
 #LSCOLORS是设置目录颜色的
@@ -34,10 +35,6 @@ alias gitci='git commit'
 alias gitst='git status'
 alias gitco='git checkout *'
 alias gitpull='git p'
-alias ssh211='/Users/MSummer/.myssh huanglingzhi huanglingzhi 10.8.4.211 22'
-alias ssh102='/Users/MSummer/.myssh huanglingzhi huanglingzhi 10.8.4.102 22'
-alias ssh218='/Users/MSummer/.myssh huanglingzhi huanglingzhi 10.8.4.218 22'
-alias ssh212='ssh huanglingzhi@10.8.4.212'
 alias ssh63='ssh  develop@10.8.160.63 -p 50022'
 alias ssh66='ssh  develop@10.8.160.66 -p 50022'
 alias ssh67='ssh  develop@10.8.160.67 -p 50022'
